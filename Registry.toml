@@ -1,0 +1,10 @@
+name = "MatrixLabTools"
+uuid = "ff65f36f-f85e-49fc-906c-9f9c7b02249d"
+repo = "https://github.com/MatrixLabTools/PackageRegistry.git"
+
+description = """
+Julia package repository for packages related to QM/MM for matrix systems.
+"""
+
+[packages]
+"76415700-ec45-11e8-0f65-f1df3c899b21" = {name = "PotentialCalculation.jl", path = "packages/PotentialCalculation"}
