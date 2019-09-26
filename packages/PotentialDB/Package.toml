@@ -1,3 +1,3 @@
 name = "PotentialDB"
 uuid = "e899a7e1-cf22-409b-b35c-84b9d10c2c8e"
-repot = "https://github.com/MatrixLabTools/PotentialDB.jl"
+repot = "https://github.com/MatrixLabTools/PotentialDB.jl.git"
