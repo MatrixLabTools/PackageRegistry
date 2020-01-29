@@ -3,3 +3,6 @@ julia = "1"
 
 ["0.1"]
 PotentialCalculation = "0.2"
+
+["0.2"]
+PotentialCalculation = "0.3"
