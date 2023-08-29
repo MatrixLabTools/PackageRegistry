@@ -9,3 +9,6 @@ TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 
 ["0.2.2-0"]
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+
+["0.2.4-0"]
+AtomsBase = "a963bdd2-2df7-4f54-a1ee-49d51e6be12a"
