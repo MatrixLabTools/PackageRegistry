@@ -1,3 +1,6 @@
 ["0.3-0"]
 MLJScikitLearnInterface = "5ae90465-5518-4432-b9d2-8a1def2f0cab"
 PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+
+["0.3.1-0"]
+ACEmd = "69e0c927-b120-467d-b2b3-5b6842148cf4"
