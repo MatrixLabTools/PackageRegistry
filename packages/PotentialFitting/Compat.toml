@@ -27,7 +27,6 @@ PotentialCalculation = "0.3-0.4"
 ["0.3-0"]
 Chemfiles = "0.10.41-0.10"
 Distances = "0.10"
-MLJ = "0.19"
 MLJGLMInterface = "0.3"
 Makie = "0.19"
 PotentialCalculation = "0.6"
@@ -35,3 +34,10 @@ StatsBase = "0.33-0.34"
 Unitful = "1"
 UnitfulAtomic = "1"
 julia = "1.9.0-1"
+
+["0.3-0.3.1"]
+MLJ = "0.19"
+
+["0.3.2-0"]
+MLJ = "0.19-0.20"
+Statistics = "1"
